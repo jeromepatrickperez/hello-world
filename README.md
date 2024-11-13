@@ -1,2 +1,2 @@
 # hello-world
-I am student
+I am a student
